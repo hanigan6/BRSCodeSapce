@@ -1,0 +1,15 @@
+/workspaces/BRSCodeSapce/src/HelloCodespace/bin/Debug/net6.0/HelloCodespace
+/workspaces/BRSCodeSapce/src/HelloCodespace/bin/Debug/net6.0/HelloCodespace.deps.json
+/workspaces/BRSCodeSapce/src/HelloCodespace/bin/Debug/net6.0/HelloCodespace.runtimeconfig.json
+/workspaces/BRSCodeSapce/src/HelloCodespace/bin/Debug/net6.0/HelloCodespace.dll
+/workspaces/BRSCodeSapce/src/HelloCodespace/bin/Debug/net6.0/HelloCodespace.pdb
+/workspaces/BRSCodeSapce/src/HelloCodespace/obj/Debug/net6.0/HelloCodespace.csproj.AssemblyReference.cache
+/workspaces/BRSCodeSapce/src/HelloCodespace/obj/Debug/net6.0/HelloCodespace.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/BRSCodeSapce/src/HelloCodespace/obj/Debug/net6.0/HelloCodespace.AssemblyInfoInputs.cache
+/workspaces/BRSCodeSapce/src/HelloCodespace/obj/Debug/net6.0/HelloCodespace.AssemblyInfo.cs
+/workspaces/BRSCodeSapce/src/HelloCodespace/obj/Debug/net6.0/HelloCodespace.csproj.CoreCompileInputs.cache
+/workspaces/BRSCodeSapce/src/HelloCodespace/obj/Debug/net6.0/HelloCodespace.dll
+/workspaces/BRSCodeSapce/src/HelloCodespace/obj/Debug/net6.0/refint/HelloCodespace.dll
+/workspaces/BRSCodeSapce/src/HelloCodespace/obj/Debug/net6.0/HelloCodespace.pdb
+/workspaces/BRSCodeSapce/src/HelloCodespace/obj/Debug/net6.0/HelloCodespace.genruntimeconfig.cache
+/workspaces/BRSCodeSapce/src/HelloCodespace/obj/Debug/net6.0/ref/HelloCodespace.dll
