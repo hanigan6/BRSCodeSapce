@@ -1,15 +1,18 @@
 // For format details, see https://aka.ms/devcontainer.json. For config options, see the README at:
 // https://github.com/microsoft/vscode-dev-containers/tree/v0.233.0/containers/dotnet
 {
-	"name": "C# (.NET)",
+	"name": "Burning River Softworks Container (.NET)",
 	"build": {
 		"dockerfile": "Dockerfile",
 		"args": { 
 			// Update 'VARIANT' to pick a .NET Core version: 3.1, 5.0, 6.0
-			// Append -bullseye or -focal to pin to an OS version.
-			"VARIANT": "6.0-bullseye",
+			// https://hub.docker.com/_/microsoft-dotnet-sdk
+			"VARIANT": "6.0-focal",
 			// Options
-			"NODE_VERSION": "lts/*"
+			"INSTALL_NODE": "true",
+			"NODE_VERSION": "lts/*",
+			"INSTALL_AZURE_CLI": "false"
+			
 		}
 	},
 
